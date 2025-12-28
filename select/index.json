@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Perfect",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2025-12-28T03:35:49.802468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/01_Perfect_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Perfect Love - Single Version",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/02_A_Perfect_Love_-_Single_Version_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Perfect Love (Single Version)",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/03_A_Perfect_Love_(Single_Version)_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crimson Blue - From Nine Perfect Strangers",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/04_Crimson_Blue_-_From_Nine_Perfect_Strangers_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Perfect",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/05_Perfect_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Perfect for you",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/06_Perfect_for_you_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Perfect for you (소원)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/07_Perfect_for_you_(소원)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Not Perfect - feat. The Clark Sisters Amended",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/08_I'm_Not_Perfect_-_feat._The_Clark_Sisters_Amended_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Not Perfect (feat. The Clark Sisters)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/09_I'm_Not_Perfect_(feat._The_Clark_Sisters)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Perfect",
+      "artist": "MC Solaar",
+      "has_synced": false,
+      "path": "select/10_Perfect_MC_Solaar.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Perfect Day",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/11_Perfect_Day_Kelis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Perfect Gentleman",
+      "artist": "Wyclef Jean",
+      "has_synced": true,
+      "path": "select/12_Perfect_Gentleman_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Perfect Day",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/13_Perfect_Day_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Perfect Illusion",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/14_Perfect_Illusion_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Perfect Picture",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/15_Perfect_Picture_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Perfect Picture (Produced By LeekeLeek)",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/16_Perfect_Picture_(Produced_By_LeekeLeek)_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Perfect Places",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/17_Perfect_Places_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Perfect Skin",
+      "artist": "Lloyd Cole",
+      "has_synced": false,
+      "path": "select/18_Perfect_Skin_Lloyd_Cole.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_Perfect_Ed_Sheeran.txt"
+    }
+  ]
+}
